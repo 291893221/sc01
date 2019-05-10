@@ -18,6 +18,8 @@
   <url>http://www.example.com</url>
   <modules>
     <module>eurekaserver</module>
+    <module>eurekaclient</module>
+    <module>consumer</module>
   </modules>
 
   <properties>
