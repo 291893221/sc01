@@ -35,6 +35,10 @@
       <artifactId>spring-boot-starter-test</artifactId>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+    </dependency>
     <!-- jaxb模块引用 - start -->
     <dependency>
       <groupId>javax.xml.bind</groupId>
