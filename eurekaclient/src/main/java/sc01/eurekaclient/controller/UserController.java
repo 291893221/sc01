@@ -14,7 +14,7 @@ import sc01.eurekaclient.model.ResultModel;
 @Api("用户管理")
 public class UserController {
 	/**
-	 * http://localhost:8083/sayHello?username=张三
+	 * http://localhost:8083/sayHello?username=test001
 	 * @param username
 	 * @return
 	 */
