@@ -10,7 +10,7 @@ public class UserController {
 	@Autowired
 	private UserService userService;
 	/**
-	 * http://localhost:8081/sayHello?username=张三
+	 * http://localhost:8081/sayHello?username=test00000001
 	 * @param username
 	 * @return
 	 */
