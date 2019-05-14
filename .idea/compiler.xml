@@ -9,6 +9,7 @@
         <module name="consumer" />
         <module name="eurekaclient" />
         <module name="eurekaserver" />
+        <module name="zuulserver" />
       </profile>
     </annotationProcessing>
   </component>
